@@ -5,6 +5,7 @@ const AddPost = () => {
     return (
         <>
             <Navbar />
+            
         </>
     )
 }
